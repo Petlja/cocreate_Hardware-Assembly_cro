@@ -13,7 +13,7 @@ Učenici koji sudjeluju u ovoj aktivnosti trebali bi već biti upoznati s kompon
 - Napajanje: Snaga (W), Napon (V), Molex, SATA i PCIe (za GPU) **konektori, formati** (ATX, SFX itd.)
 - Matična ploča: Tip CPU utičnice (npr. LGA, AM), **RAM utori** (broj i tip), Proširenja utori (PCI, PCIe, M.2), USB priključci (2.0, 3.0, 3.1, 3.2, USB-C), podaci i napajanje **konektori** (SATA, Molex, M.2, NVMe), **chipset i ukupna kompatibilnost**.
 - RAM: Kapacitet i tehnologija (npr. DDR, DDR2, DDR3, DDR4), brzina prijenosa i frekvencija, tajming i podrška za ECC, **raspored čipova**.
-- Tvrdi disk (HDD): Brzina okretaja (RPM), brzina prijenosa podataka, priključci za napajanje i podatke, **konektori** (SATA, Molex).
+- Hard disk (HDD): Brzina okretaja (RPM), brzina prijenosa podataka, priključci za napajanje i podatke, **konektori** (SATA, Molex).
 - SSD: **konektori** (SATA, M.2 SATA, NVMe PCIe), brzina čitanja/pisanja (MB/s ili GB/s).
 - Procesor (CPU): Broj jezgri i threadova, osnovna i turbo frekvencija (GHz), cache (L1, L2, L3), potrošnja energije (TDP), **kompatibilnost s matičnom pločom/utičnicom**.
 - Sustavi hlađenja: Ventilatori (veličina, RPM, protok zraka u CFM), hladnjak procesora (zračno ili vodeno hlađenje), **termalna pasta** (toplinska vodljivost W/mK).
