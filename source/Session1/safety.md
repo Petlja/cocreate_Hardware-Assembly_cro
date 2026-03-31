@@ -1,163 +1,163 @@
-# Safety Protocols
+# Sigurnosni protokoli
 
-Before working with computer hardware, it is essential to understand and apply safety rules that protect not only the equipment, but also the people handling it and the environment. Even small mistakes during disassembly or assembly can result in injuries, damaged components, or hazards such as fire and electric shock. By following safety rules, you ensure a safe learning environment and develop good professional habits that will serve you throughout your career.
+Prije rada s računalnim hardverom važno je razumjeti i primjenjivati sigurnosna pravila koja štite ne samo opremu, nego i osobe koje njome rukuju te okoliš. Čak i manje pogreške tijekom rastavljanja ili sastavljanja mogu dovesti do ozljeda, oštećenja komponenti ili opasnosti kao što su požar i strujni udar. Poštivanjem sigurnosnih pravila osiguravate sigurno okruženje za učenje i razvijate dobre profesionalne navike koje će vam koristiti tijekom cijele karijere.
 
-In this section, we will review **eight key areas of safety** to guide you in your work:
+U ovom ćemo dijelu proći **osam ključnih područja sigurnosti** koja će vas voditi u radu:
 
-1. Workplace Safety  
-2. Accident Prevention  
-3. General Risk Factors  
-4. General Risk Factors in Computer Handling  
-5. Safety Signs  
-6. Workshop Precautions  
-7. Methods and Systems for Fire Extinguishing  
-8. First Aid
+1. Sigurnost na radnom mjestu  
+2. Prevencija nezgoda  
+3. Opći čimbenici rizika  
+4. Opći čimbenici rizika pri rukovanju računalima  
+5. Sigurnosni znakovi  
+6. Mjere opreza u radionici  
+7. Metode i sustavi za gašenje požara  
+8. Prva pomoć
 
-## Electricity in the computer: Occupational Hazards And Environmental Protection
+## Elektricitet u računalu: opasnosti na radu i zaštita okoliša
 
-### 1) Workplace safety
+### 1) Sigurnost na radnom mjestu
 
-It is the set of **techniques and procedures aimed at eliminating or reducing the risk** of workplace accidents and the damage they may cause: primarily to people, but also to property and the environment.
+To je skup **tehnika i postupaka usmjerenih na uklanjanje ili smanjenje rizika** od nezgoda na radnom mjestu i štete koju one mogu prouzročiti, ponajprije ljudima, ali i imovini te okolišu.
 
-Its goal is to **prevent workplace accidents** by avoiding their occurrence or minimizing their immediate consequences on people and property. Therefore, workplace safety not only considers accidents that cause injuries but also those that could potentially cause them.
+Njegov je cilj **spriječiti nezgode na radnom mjestu** izbjegavanjem njihova nastanka ili ublažavanjem njihovih neposrednih posljedica za ljude i imovinu. Zato sigurnost na radnom mjestu ne obuhvaća samo nezgode koje uzrokuju ozljede, nego i one koje bi ih mogle prouzročiti.
 
-### 2) Accident prevention
+### 2) Prevencija nezgoda
 
-Safety aims to prevent workplace accidents, which are essentially abnormal, unintended, and undesired events that occur unexpectedly and are usually avoidable. They interrupt normal work activity and may cause injuries to people. There are situations that can lead to accidents, either with injuries or without (incidents).
+Sigurnost je usmjerena na sprječavanje nezgoda na radnom mjestu, koje su u osnovi nenormalni, nenamjerni i neželjeni događaji koji se pojavljuju neočekivano i obično se mogu izbjeći. Oni prekidaju uobičajeni tijek rada i mogu uzrokovati ozljede ljudi. Postoje i situacije koje mogu dovesti do nezgoda, s ozljedama ili bez njih (incidenti).
 
-To prevent accidents, it is necessary to:
-  *   Know the risks we are exposed to
-  *   Understand that an accident can happen at any time
-  *   Be aware that it can happen to you too
-  *   Understand the real consequences of accidents
-  *   Be informed about the human and financial losses accidents can cause
+Za sprječavanje nezgoda potrebno je:
+  *   Poznavati rizike kojima smo izloženi
+  *   Razumjeti da se nezgoda može dogoditi u bilo kojem trenutku
+  *   Biti svjestan da se može dogoditi i vama
+  *   Razumjeti stvarne posljedice nezgoda
+  *   Biti informiran o ljudskim i financijskim gubicima koje nezgode mogu uzrokovati
 
 
-### 3) General risk factors
+### 3) Opći čimbenici rizika
 
-*Environmental setting*: Must ensure thermal, visual, and acoustic comfort. A lack of these can lead to mistakes that may cause accidents or simply result in irritability. A comfortable situation is one in which environmental variables do not create distractions, fatigue, or discomfort. The goal is to ensure that the person does not experience discomfort that distracts their attention or prevents them from focusing on elements important to their health and safety.
+*Okruženje*: Mora osigurati toplinsku, vizualnu i akustičnu udobnost. Njihov nedostatak može dovesti do pogrešaka koje mogu uzrokovati nezgode ili jednostavno izazvati razdražljivost. Ugodna situacija je ona u kojoj čimbenici okoline ne stvaraju ometanja, umor ni nelagodu. Cilj je osigurati da osoba ne osjeća nelagodu koja odvlači pozornost ili onemogućuje usmjeravanje na elemente važne za zdravlje i sigurnost.
 
-*Organization*:  A key element of the environment is how the work is organized (training, information, communication, group relationships, etc.), which should also be comfortable and well-adapted to workers.
+*Organizacija*: Ključan element okruženja jest način na koji je rad organiziran (osposobljavanje, informiranje, komunikacija, odnosi u skupini itd.), a i on mora biti primjeren i dobro prilagođen radnicima.
 
-*Psychic comfort*: This is less obvious than physical or mental comfort and depends on each person’s individual traits. Psychology helps us group behaviors to predict reactions. Discomfort can appear in the short term (irritability, anxiety), medium term (sleep disturbances, tension headaches), or long term (depression, gastrointestinal, cardiovascular, or skin conditions), affecting people both inside and outside the workplace. 
+*Psihička udobnost*: Ona je manje očita od tjelesne ili mentalne udobnosti i ovisi o individualnim osobinama svake osobe. Psihologija nam pomaže grupirati ponašanja kako bismo predvidjeli reakcije. Nelagoda se može pojaviti kratkoročno (razdražljivost, tjeskoba), srednjoročno (poremećaji spavanja, tenzijske glavobolje) ili dugoročno (depresija, gastrointestinalne, kardiovaskularne ili kožne tegobe), pri čemu utječe na ljude i unutar i izvan radnog mjesta.
 
-### 4) General risk factors in computer handling
+### 4) Opći čimbenici rizika pri rukovanju računalima
 
-<u>Electrical installations</u>:  Computer systems are powered by electricity, which can cause electric shocks to the worker.
+<u>Električne instalacije</u>: Računalni sustavi napajaju se električnom energijom, što može uzrokovati strujni udar radniku.
 
-<u>Materials with fire risk</u>:  Electrical short circuits can cause fires not only in the computer but also in the building’s electrical system.
+<u>Materijali s rizikom od požara</u>: Električni kratki spojevi mogu izazvati požar ne samo u računalu nego i u električnoj instalaciji zgrade.
 
-<u>Handling tools or components</u>: Using tools or computer parts presents risks for the worker.
+<u>Rukovanje alatima ili komponentama</u>: Upotreba alata ili računalnih dijelova predstavlja određene rizike za radnika.
 
-<u>Work environment</u>: Noise, humidity, dust, cold, etc., can affect the worker’s health.
+<u>Radno okruženje</u>: Buka, vlaga, prašina, hladnoća i slično mogu utjecati na zdravlje radnika.
 
-<u>Forced postures</u>: The posture we adopt during daily work can lead to physical problems for the worker.
+<u>Prisilni položaji tijela</u>: Položaj koji zauzimamo tijekom svakodnevnog rada može dovesti do fizičkih problema kod radnika.
 
-<u>Handling loads</u>:  Carrying heavy materials can cause physical injuries.
+<u>Rukovanje teretom</u>: Nošenje teških materijala može uzrokovati tjelesne ozljede.
 
-<u>Mental load and addiction</u>: Concentrating for long periods can also be a risk factor. Excessive computer use can lead to addictions (to the Internet, games, messaging, social networks, etc.) that should be addressed before they become health problems.  
+<u>Mentalno opterećenje i ovisnost</u>: Dugotrajna koncentracija također može biti čimbenik rizika. Pretjerana upotreba računala može dovesti do ovisnosti (o internetu, igrama, dopisivanju, društvenim mrežama itd.) koje treba prepoznati i rješavati prije nego što postanu zdravstveni problem.  
 
-### 5) Safety signs
+### 5) Sigurnosni znakovi
 
-It is important to know and respect the warning signs that appear on different elements.
+Važno je poznavati i poštivati znakove upozorenja koji se nalaze na različitim elementima.
 
 
 ```{image} images/safety1.png
 :width: 90%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: Slika sadrži različite sigurnosne znakove upozorenja.
 ```
 
 ```{image} images/safety2.png
 :width: 80%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: Slika sadrži različite sigurnosne znakove upozorenja.
 ```
 
-Besides precautions, we will also check if they comply with the main safety regulations, especially those of the European Community.
+Osim mjera opreza, provjerit ćemo i usklađenost s glavnim sigurnosnim propisima, posebno onima Europske unije.
 
-1. **Regulated by the United States and Canada** (It can be found on hard drives, floppy drives...)
+1. **Regulirano od strane Sjedinjenih Država i Kanade** (Može se pronaći na hard diskovima, disketnim pogonima i slično.)
 ```{image} images/RegulatedbyUSandCanada.png
 :width: 25%
 :align: center
-:alt: Image of indicator of regulation by the United States and Canada.
+:alt: Slika oznake Regulated by the United States and Canada.
 ```
-2. **Regulated by the European Union** (It has passed the European Union’s safety standards)
+2. **Regulirano standardima Europske unije** (Označava da proizvod zadovoljava sigurnosne standarde Europske unije.)
 ```{image} images/RegulatedbyEU.png
 :width: 25%
 :align: center
-:alt: Image of indicator of regulation by EU.
+:alt: Slika oznake Regulated by the European Union.
 ```
-3. **European Electrical Certification Standards** (It has passed the European Union’s electrical safety standards)
+3. **Еuropski standardi električne sigurnosti** (Označava usklađenost s europskim standardima električne sigurnosti.)
 ```{image} images/EUCertificationStandards.png
 :width: 25%
 :align: center
-:alt: Image indicator of compliance with EU Standards.
+:alt: Slika oznake European Electrical Certification Standards.
 ```
-4. **Regulated by German standards** (TEST) (Geprüfte Sicherheitt)
+4. **Regulirano njemačkim standardima** (TEST) (Regulirano njemačkim standardima)
 ```{image} images/GermanStandard.png
 :width: 25%
 :align: center
-:alt: Image indicator of German Standard compliance.
+:alt: Slika oznake Regulated by German standards.
 ```
 
-### 6) Workshop precautions
+### 6) Mjere opreza u radionici
 
 ```{image} images/Safety_Rules_Icons/Location.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Location safety rules .
+:alt: Ikona piktograma Lokacijska sigurnosna pravila.
 ```
-**Location**: Choose a dry, well-ventilated workspace. There should be enough light to clearly see all components. Avoid areas with carpet or rugs, as these tend to generate static electricity. A good choice would be a bare, grounded surface.
+**Location**: Odaberite suh i dobro prozračen radni prostor. Treba biti dovoljno svjetla kako biste jasno vidjeli sve komponente. Izbjegavajte prostore s tepihom ili sagovima jer oni pogoduju stvaranju statičkog elektriciteta. Dobar izbor bila bi gola, uzemljena površina.
 
 ```{image} images/Safety_Rules_Icons/Static_electricity.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Static electricity safety .
+:alt: Ikona piktograma Static electricity.
 ```
-**Static electricity**: Static electricity is the greatest danger for the parts we assemble. Even a tiny discharge, too small for us to feel, can damage expensive and delicate electronic parts like the CPU, RAM, and other chips. It’s important to use an anti-static wrist strap.
+**Static electricity**: Statički elektricitet najveća je prijetnja dijelovima koje sastavljamo. Čak i vrlo malen izboj, preslab da bismo ga osjetili, može oštetiti skupe i osjetljive elektroničke dijelove kao što su CPU, RAM i drugi čipovi. Važno je koristiti antistatičku narukvicu.
 
 ```{image} images/Safety_Rules_Icons/Power_supply.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Power supply safety.
+:alt: Ikona piktograma Power supply.
 ```
-**Power supply**: Turn off the computer and unplug its power supply before installing or removing any components. If there is electricity flowing through components while handling them, they can be damaged, including the motherboard.
-Never cut or remove the grounding wire from the power cable. This safety measure protects against possible high-voltage discharges between the computer and the user.
+**Power supply**: Isključite računalo i odspojite ga iz napajanja prije ugradnje ili uklanjanja bilo koje komponente. Ako kroz komponente tijekom rukovanja prolazi električna struja, one se mogu oštetiti, uključujući i matičnu ploču.
+Nikada nemojte rezati ili uklanjati vodič za uzemljenje s kabela za napajanje. Ta sigurnosna mjera štiti od mogućih visokonaponskih pražnjenja između računala i korisnika.
 
 ```{image} images/Safety_Rules_Icons/Cuts.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Cuts safety.
+:alt: Ikona piktograma Cuts.
 ```
-**Cuts**: Cuts can happen from using pointed tools (screwdrivers, wire strippers, knives, etc.) or from sharp metal parts inside the computer. Be careful with sharp edges, especially inside the computer. Handle the inside of the computer case and its components carefully to avoid cutting your hands. (Sharp edges of the case can be smoothed with sandpaper before assembly.)
+**Cuts**: Posjekotine mogu nastati zbog uporabe šiljastih alata (odvijača, kliješta za skidanje izolacije, noževa i sl.) ili oštrih metalnih dijelova unutar računala. Budite oprezni s oštrim rubovima, posebno unutar računala. Pažljivo rukujte unutrašnjošću kućišta i njegovim komponentama kako biste izbjegli ozljede ruku. (Oštri rubovi kućišta mogu se prije sastavljanja zagladiti brusnim papirom.)
 
 ```{image} images/Safety_Rules_Icons/Disassembling_components.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Disassembling components safety rules .
+:alt: Ikona piktograma Disassembling components.
 ```
-**Disassembling components**: Avoid disassembling electronic components like the power supply or monitor, as it is very dangerous. They contain high-voltage capacitors that can cause serious electric shocks if touched. You can receive a severe or even fatal shock, even when the unit is unplugged, because they store a lot of energy.
+**Disassembling components**: Izbjegavajte rastavljanje elektroničkih komponenti kao što su napajanje ili monitor jer je to vrlo opasno. One sadrže visokonaponske kondenzatore koji pri dodiru mogu izazvati ozbiljan strujni udar. Možete pretrpjeti težak, pa čak i smrtonosan udar, čak i kada je uređaj isključen iz struje, jer pohranjuju veliku količinu energije.
 
 
 ```{image} images/Safety_Rules_Icons/Toxicity.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Toxicity safety rules .
+:alt: Ikona piktograma Toxicity.
 ```
-**Toxicity**: Some electronic components can be toxic, so we are exposed to this risk, usually through wounds.
+**Toxicity**: Neke elektroničke komponente mogu biti toksične, pa smo tom riziku izloženi najčešće preko rana.
 
 ```{image} images/Safety_Rules_Icons/Short_circuit_or_fire.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Short circuit or fire safety rules .
+:alt: Ikona piktograma Short circuit or fire.
 ```
-**Short circuit or fire**: A fire can be caused by an electrical short circuit, overheating, or even a battery explosion. We must avoid having conductive liquids nearby while handling the computer (coffee, water, etc.) and prevent any metal objects from falling inside the case while the computer is plugged in.
-It is important to check that the ventilation holes are not blocked and are functioning properly.
+**Short circuit or fire**: Požar može uzrokovati električni kratki spoj, pregrijavanje ili čak eksplozija baterije. Tijekom rukovanja računalom moramo izbjegavati prisutnost vodljivih tekućina u blizini (kava, voda i sl.) te spriječiti upadanje metalnih predmeta u kućište dok je računalo priključeno na napajanje.
+Važno je provjeriti da ventilacijski otvori nisu blokirani i da ispravno funkcioniraju.
 
-### 7) Methods and systems for fire extinguishing
+### 7) Metode i sustavi za gašenje požara
 
-Extinguishing methods:
+Metode gašenja:
 
 ```{list-table}
 :header-rows: 0
@@ -172,7 +172,7 @@ Extinguishing methods:
   - Automatic sprinklers
 ```
 
-Different materials and equipment require different types of fire extinguishers. Knowing which extinguisher to use can prevent accidents and protect both people and devices. The image below shows the **five fire classes (A, B, C, D, and K)**. Each class refers to the type of material that is burning, for example, Class A for paper and textiles, Class B for flammable liquids, and Class C for electrical equipment.
+Različiti materijali i oprema zahtijevaju različite vrste vatrogasnih aparata. Poznavanje odgovarajuće vrste aparata može spriječiti nezgode i zaštititi ljude i uređaje. Slika u nastavku prikazuje **pet razreda požara (A, B, C, D i K)**. Svaki razred odnosi se na vrstu materijala koji gori, primjerice razred A za papir i tekstil, razred B za zapaljive tekućine, a razred C za električnu opremu.
 
 
 #### Fire classes 
@@ -180,48 +180,48 @@ Different materials and equipment require different types of fire extinguishers.
 ```{image} images/Extinguishing_systems/Fire_Classes.png
 :width: 90%
 :align: center
-:alt: Fire hose reel .
+:alt: Prikaz razreda požara.
 ```
 
-Different extinguishers are designed for different fire classes. Using the wrong one can make the fire worse or cause harm. The table below shows which extinguishers are safe and effective for each type of fire.
+Različiti vatrogasni aparati namijenjeni su različitim razredima požara. Upotreba pogrešnog aparata može pogoršati požar ili izazvati dodatnu štetu. Tablica u nastavku prikazuje koji su aparati sigurni i učinkoviti za pojedinu vrstu požara.
 
-| Extinguisher Type | CLASS A | CLASS B | CLASS C | CLASS D | CLASS K |
+| Vrsta vatrogasnog aparata | CLASS A | CLASS B | CLASS C | CLASS D | CLASS K |
 |---|---|---|---|---|---|
-| Foam Spray | **Yes** | **Yes** | No | No | No |
-| ABC Powder | **Yes** | **Yes** | **Yes** | Yes | No |
-| Carbon Dioxide | No | **Yes** | No | **Yes** | No |
-| Wet Chemical | **Yes** | No | No | No | **Yes** |
-| Water | **Yes** | No | No | No | No |
+| Pjena | **Da** | **Da** | Ne | Ne | Ne |
+| ABC prah | **Da** | **Da** | **Da** | Da | Ne |
+| Ugljikov dioksid | Ne | **Da** | Ne | **Da** | Ne |
+| Mokra kemikalija | **Da** | Ne | Ne | Ne | **Da** |
+| Voda | **Da** | Ne | Ne | Ne | Ne |
 
 ```{infonote} 
-When dealing with electrical equipment, such as computers, always use a **Class C extinguisher** (e.g., CO₂ or Halotron). These do not conduct electricity and prevent further damage to devices.
+Pri radu s električnom opremom, kao što su računala, uvijek koristite **Class C extinguisher** (npr. CO2 ili Halotron). Takvi aparati ne provode električnu energiju i sprječavaju dodatno oštećenje uređaja.
 ```
 
 
-### 8) First aid
+### 8) Prva pomoć
 
-<u>Treatment of wounds:</u>
+<u>Zbrinjavanje rana:</u>
 
-Clean the wound with plenty of water and mild soap, then disinfect it with alcohol. Inspect the wound and remove any foreign objects if present, then disinfect again with alcohol. Leave the wound exposed to air if there is no risk of contact; otherwise, cover it with a band-aid.
+Očistite ranu s mnogo vode i blagim sapunom, a zatim je dezinficirajte alkoholom. Pregledajte ranu i uklonite eventualna strana tijela, potom je ponovno dezinficirajte alkoholom. Ostavite ranu izloženu zraku ako ne postoji opasnost od kontakta; u suprotnom je prekrijte flasterom.
 
-<u>Treatment of burns:</u>
+<u>Zbrinjavanje opeklina:</u>
 
-If necessary, remove all clothing from the burned area except any that is stuck to the skin. Immerse the burned area in cold water for 10 minutes, repeating every 40 minutes if pain persists. If the pain does not subside, see a doctor.
+Ako je potrebno, uklonite odjeću s opečenog područja, osim one koja se zalijepila za kožu. Opečeno područje uronite u hladnu vodu na 10 minuta, a postupak ponavljajte svakih 40 minuta ako bol i dalje traje. Ako bol ne popusti, potražite liječničku pomoć.
 
-<u>Eye emergencies:</u>
+<u>Hitna stanja oka:</u>
 
-These should only be treated by ophthalmologists. The most serious eye injuries are: burns, which should be treated as burns (cleaning and cold water); eye trauma caused by blows, welding, or sharp objects, in which case the eye should be covered; and contusions around the eyelid, where indirect application of ice can be used.
+Njih bi trebali zbrinjavati isključivo oftalmolozi. Najteže ozljede oka su opekline, koje se tretiraju kao i druge opekline (čišćenje i hladna voda), trauma oka uzrokovana udarcima, zavarivanjem ili oštrim predmetima, kada oko treba prekriti, te nagnječenja područja oko vjeđe, pri čemu se može primijeniti led posredno, preko zaštitnog sloja.
 
-<u>Toxic substances:</u>
+<u>Otrovne tvari:</u>
 
-If corrosive substances have been ingested, drink milk or water. If the substance is acidic, take magnesium; if it is alkaline, take vinegar or lemon. In case of hospitalization, a sample of the substance should be taken and contact made with the Toxicology Institute.
+Ako su progutane korozivne tvari, treba popiti mlijeko ili vodu. Ako je tvar kisela, uzima se magnezij; ako je lužnata, uzima se ocat ili limun. U slučaju hospitalizacije treba ponijeti uzorak tvari i kontaktirati toksikološku službu.
 
-If non-corrosive substances are ingested, vomiting should be induced by tickling the uvula with a spoon or by drinking a cup of coffee with salt.
+Ako su progutane nekorozivne tvari, povraćanje se može potaknuti podraživanjem resice žličicom ili ispijanjem šalice kave sa soli.
 
-On the following sheet 👇, you will find a **summary of the Safety Rules for Computer Assembly and Disassembly**, which you should use as a reference throughout all upcoming sessions:
+Na sljedećem listu 👇 nalazi se **sažetak Sigurnosna pravila za sastavljanje i rastavljanje računala**, koji trebate koristiti kao referencu tijekom svih nadolazećih sesija:
 
 ```{image} images/Safety_Rules_Sheet.png
 :width: 100%
 :align: center
-:alt: Summary of the Safety Rules for Computer Assembly and Disassembly.
+:alt: Sažetak sigurnosnih pravila za sastavljanje i rastavljanje računala.
 ```

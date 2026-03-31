@@ -1,10 +1,10 @@
-# What have you learned
+# Što ste naučili
 
-- Exercise 1: Answer questions individually in own words.
-- Exercise 2: Match pictograms with their meaning via drag-and-drop.
+- Vježba 1: Odgovorite na pitanja samostalno, vlastitim riječima.
+- Vježba 2: Povežite piktograme s njihovim značenjem.
 
 
-## Exercise 1:
+## Vježba 1:
 
 ```{raw} html
 <div style="text-align: center">
@@ -12,201 +12,201 @@
 </div>
 ```
 
-## Exercise 2:
+## Vježba 2:
 
 <!-- ```{infonote} 
-**We need external drag and drop functionality short term!!!**
+**Kratkoročno nam je potrebna vanjska funkcionalnost za drag-and-drop.**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
 :align: center
-:alt: Diagram of the drag and drop exercise.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ``` -->
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Hot surface;
-:answer3: Burn;
+:answer1: Elektrostatičko pražnjenje;
+:answer2: Vruća površina;
+:answer3: Opasnost od opeklina;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg1.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Laserska opasnost;
+:answer2: Opće upozorenje;
+:answer3: Visoki napon;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg2.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Burn;
-:answer3: Hot surface;
+:answer1: Elektrostatičko pražnjenje;
+:answer2: Opasnost od opeklina;
+:answer3: Vruća površina;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg3.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Oznaka EU sukladnosti;
+:answer2: Opće upozorenje;
+:answer3: Visoki napon;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg4.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: Fragile;
-:answer2: Laser;
-:answer3: Explosion;
+:answer1: Lomljivo;
+:answer2: Laserska opasnost;
+:answer3: Opasnost od eksplozije;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg5.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: UL component mark for US and Canada;
+:answer1: Oznaka EU sukladnosti;
+:answer2: Oznaka europske električne sukladnosti;
+:answer3: UL oznaka komponente za SAD i Kanadu;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg6.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: Explosion;
-:answer3: High voltage;
+:answer1: Laserska opasnost;
+:answer2: Opasnost od eksplozije;
+:answer3: Visoki napon;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg7.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: High temperature;
-:answer2: Hot surface;
-:answer3: General warning;
+:answer1: Visoka temperatura;
+:answer2: Vruća površina;
+:answer3: Opće upozorenje;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg8.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: Electrostatic discharge;
+:answer1: Oznaka EU sukladnosti;
+:answer2: Oznaka europske električne sukladnosti;
+:answer3: Elektrostatičko pražnjenje;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg9.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: Burn;
-:answer2: Explosion;
-:answer3: Laser;
+:answer1: Opasnost od opeklina;
+:answer2: Opasnost od eksplozije;
+:answer3: Laserska opasnost;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg10.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: General warning;
-:answer2: Hot surface;
-:answer3: Fragile;
+:answer1: Opće upozorenje;
+:answer2: Vruća površina;
+:answer3: Lomljivo;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg11.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 
 ```{mchoice}
-:answer1: UL component mark for US and Canada
-:answer2: EU certification mark;
-:answer3: European Norms Electrical Certification;
+:answer1: UL oznaka komponente za SAD i Kanadu
+:answer2: Oznaka EU sukladnosti;
+:answer3: Oznaka europske električne sukladnosti;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Odaberite točnu oznaku koja odgovara piktogramu
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Dijagram vježbe povezivanja povlačenjem i ispuštanjem.
 ```
 <!-- Labels and final solution list:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
-12. European Norms Electrical Certification -->
+1. Elektrostatičko pražnjenje  
+2. Opasnost od visokog napona  
+3. Laserska opasnost  
+4. Opasnost od eksplozije  
+5. Opće upozorenje  
+6. Lomljivo  
+7. Opasnost od visoke temperature  
+8. Opasnost od vruće površine  
+9. Opasnost od opeklina  
+10. UL oznaka komponente za SAD i Kanadu  
+11. Oznaka EU sukladnosti  
+12. Oznaka europske električne sukladnosti -->
 
 
-## Exercise 3: 
+## Vježba 3: 
 
-In the groups you formed for the following sessions, discuss and find solutions to the given situations. You will have 7 minutes for this task. Afterwards, each group will present its solutions to the whole class.
+U skupinama koje ste formirali za sljedeće sesije raspravite i pronađite rješenja za zadane situacije. Za ovaj zadatak imate 7 minuta. Nakon toga svaka će skupina predstaviti svoja rješenja cijelom razredu.
 
-1. A piece of equipment has just arrived at the workshop for repair, and you need to open it to see what’s wrong since it won’t start. What precautions should you take? Explain each one.
+1. U radionicu je upravo stigao uređaj na popravak i trebate ga otvoriti kako biste utvrdili što nije u redu jer se ne pokreće. Koje mjere opreza trebate poduzeti? Objasnite svaku.
 
-2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
+2. Kada je riječ o sustavima za gašenje požara, koju biste vrstu vatrogasnog aparata upotrijebili za gašenje požara koji je izbio u otvorenom računalu koje ste popravljali?
 
-3. Suppose that while trying to put out the fire mentioned above, your colleague burned their hand and arm. What first aid measures would you take?
+3. Pretpostavite da je vaš kolega, pokušavajući ugasiti prethodno spomenuti požar, opekao šaku i ruku. Koje biste mjere prve pomoći poduzeli?
 
-4. In another piece of equipment, when removing the power supply, you cut your finger. What first aid measures would you take?
+4. Na drugom uređaju, pri uklanjanju napajanja, porezali ste prst. Koje biste mjere prve pomoći poduzeli?
 
-5. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+5. Koju biste osnovnu zaštitnu opremu trebali koristiti u radionici kako biste smanjili rizike povezane s računalnom opremom?
 
