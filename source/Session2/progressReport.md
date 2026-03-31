@@ -1,9 +1,9 @@
-# Progress Report
+# Izvještaj o napretku
 
-At session end, record group progress and individual contributions in the classroom journal.
+Na kraju sesije zabilježite napredak skupine i pojedinačne doprinose u razredni dnevnik.
 
 ```{suggestionnote}
-**It makes more sense that they download a doc so they can edit it at any point in time and alter it when they figure out they could add more. With popup its just one time thing.**
+**Ima više smisla da preuzmu dokument kako bi ga mogli uređivati u bilo kojem trenutku i nadopuniti kada shvate da mogu dodati još sadržaja. S popup prozorom to je moguće samo jednokratno.**
 ```
 
 ```{raw} html

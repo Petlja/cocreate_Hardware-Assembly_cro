@@ -1,15 +1,15 @@
-# Developing a Disassembly Tutorial
+# Izrada vodiča za rastavljanje
 
-In this session you will:
-- Collaborate in your groups to safely **disassemble a computer**.
-- Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+U ovoj sesiji ćete:
+- Surađivati u svojim skupinama kako biste sigurno **rastavili računalo**.
+- Izraditi **vodič za rastavljanje** koji detaljno opisuje svaki korak i dokumentira postupak redoslijedom pomoću fotografija i opisa.
 
-## Disassembly & Assembly Tutorial Template:
+## Predložak vodiča za rastavljanje i sastavljanje:
 
-Use the **Disassembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Upotrijebite odjeljak **Postupak rastavljanja** iz priloženog *Predloška vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
 ```{suggestionnote}
-**Important:** You will continue adding to this same template throughout the course. By the end, it will detail the disassembly process, hardware components and assembly process. Together, this will become the **final product**.
+**Važno:** Tijekom cijelog tečaja nastavit ćete dopunjavati ovaj isti predložak. Na kraju će sadržavati postupak rastavljanja, hardverske komponente i postupak sastavljanja. Zajedno će to činiti **konačni proizvod**.
 ```
 
 ```{raw} html
@@ -18,30 +18,30 @@ Use the **Disassembly Process** section of the provided *Disassembly & Assembly 
 </div>
 ```
 
-## Disassembly instructions
+## Upute za rastavljanje
 
-Disassembly breaks a device into separate parts.
+Rastavljanje podrazumijeva razdvajanje uređaja na zasebne dijelove.
 
-Materials required:
+Potrebni materijali:
 
-- One working PC
-- Anti-static wrist strap
-- Anti-static mat
-- Anti-static bags (various sizes)
-- Technician’s toolkit
-- Plastic cup or box to organize screws, nuts, bolts
+- Jedno ispravno računalo
+- Antistatička narukvica
+- Antistatička podloga
+- Antistatičke vrećice raznih veličina
+- Tehničarski alat
+- Plastična čaša ili kutija za organiziranje vijaka, matica i pričvrsnih elemenata
 
-Procedure:
+Postupak:
 
-| Step | Instructions |
+| Korak | Upute |
 |---|---|
-| 1. Unplugging | ✓ Unplug the power cord from the PC. <br>✓ Unplug all the peripherals attached to the computer, such as the keyboard, mouse, monitor, headphones. |
-| 2. Open the case | ![](./images/S2a.png) ![](./images/S2b.png) <br> First remove the screws of the left side cover and slide the side cover. |
-| 3. Disconnect all the connectors | ![](./images/S3a.png) ![](./images/S3b.png) <br> Disconnect all the connectors connected to the motherboard. These include the SATA power cable and data cable of HDD, as well as the SATA cable of optical drive. |
-| 4. Remove the fan | ![](./images/S4a.png) ![](./images/S4b.png) <br> Remove the fan now. |
-| 5. Remove the power supply | ![](./images/S5a.png) ![](./images/S5b.png) <br> Remove the power supply that is connected to the motherboard by a 20-pin connector and 4-pin connector. |
-| 6. Remove HDD and optical drive | ![](./images/S6a.png) ![](./images/S6b.png) <br> Remove the SATA cable connected to the HDD and optical drive in the motherboard. |
-| 7. Remove RAM modules | To remove the RAM: <br> ![](./images/S7.png)|
-| 8. Remove expansion cards | ![](./images/S8.png) <br> To remove the expansion cards, disconnect the cables attached to it. |
-| 9. Remove motherboard | ![](./images/S9.png) <br> To remove the motherboard, disconnect all the cables from the motherboard. |
+| 1. Isključivanje | ✓ Isključite kabel za napajanje iz računala. <br>✓ Isključite sve periferne uređaje povezane s računalom, kao što su tipkovnica, miš, monitor i slušalice. |
+| 2. Otvaranje kućišta | ![](./images/S2a.png) ![](./images/S2b.png) <br> Najprije uklonite vijke s lijevog bočnog poklopca, a zatim pomaknite bočni poklopac. |
+| 3. Odspajanje svih priključaka | ![](./images/S3a.png) ![](./images/S3b.png) <br> Odspojite sve priključke povezane s matičnom pločom. To uključuje SATA kabel za napajanje i podatkovni kabel HDD-a, kao i SATA kabel optičkog pogona. |
+| 4. Uklanjanje ventilatora | ![](./images/S4a.png) ![](./images/S4b.png) <br> Sada uklonite ventilator. |
+| 5. Uklanjanje napajanja | ![](./images/S5a.png) ![](./images/S5b.png) <br> Uklonite napajanje koje je s matičnom pločom povezano 20-pinskim i 4-pinskim priključkom. |
+| 6. Uklanjanje HDD-a i optičkog pogona | ![](./images/S6a.png) ![](./images/S6b.png) <br> Uklonite SATA kabel povezan s HDD-om i optičkim pogonom na matičnoj ploči. |
+| 7. Uklanjanje RAM modula | Za uklanjanje RAM-a: <br> ![](./images/S7.png)|
+| 8. Uklanjanje kartica za proširenje | ![](./images/S8.png) <br> Za uklanjanje kartica za proširenje odspojite kabele koji su na njih priključeni. |
+| 9. Uklanjanje matične ploče | ![](./images/S9.png) <br> Za uklanjanje matične ploče odspojite sve kabele s matične ploče. |
 
