@@ -1,14 +1,14 @@
-# Creating a Hardware Inventory
+# Izrada hardverske inventure
 
-In this session:
-- Collaborate in your groups to **identify and document** the technical specifications of the components of the **disassembled computer**. 
-- Create a **hardware inventory** of the components identified. 
+U ovoj sesiji:
+- Surađujte u svojim skupinama kako biste **identificirali i dokumentirali** tehničke specifikacije komponenti **rastavljenog računala**.
+- Izradite **hardversku inventuru** identificiranih komponenti.
 
-Group members should divide the components among themselves to work in parallel, carefully examining each part to determine its brand, model, and key specifications. 
+Članovi skupine trebaju međusobno podijeliti komponente kako bi mogli raditi paralelno, pažljivo pregledavajući svaki dio kako bi utvrdili njegovu marku, model i ključne specifikacije.
 
-## Disassembly & Assembly Tutorial Template:
+## Predložak vodiča za rastavljanje i sastavljanje:
 
-Use the **Hardware Inventory** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+Upotrijebite odjeljak **Hardverska inventura** iz priloženog *Predloška vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
 ```{raw} html
 <div style="text-align: center">

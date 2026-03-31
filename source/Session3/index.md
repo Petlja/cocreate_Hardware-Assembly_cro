@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Session 3
+# Sesija 3
 
 ```{toctree}
 :maxdepth: 2

@@ -1,6 +1,6 @@
-# Progress Report
+# Izvještaj o napretku
 
-At session end, record group progress and individual contributions in the classroom journal.
+Na kraju sesije zabilježite napredak skupine i pojedinačne doprinose u razredni dnevnik.
 
 ```{raw} html
 <div style="text-align: center">
