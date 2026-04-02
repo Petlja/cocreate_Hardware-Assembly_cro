@@ -2,7 +2,7 @@
 status: exclude
 alias: CoCreate_HW_Assembly_cro
 lang: sr-Latn
-short_description: Zajedničko rastavljanje i ponovno sastavljanje računalnog sustava.
+short_description: Zajedničko rastavljanje i ponovno sastavljanje računalnog sustava
 long_description: >
     <p>Na ovom tečaju učenici će sigurno i u suradnji rastaviti i ponovno sastaviti računalni sustav, identificirati i evidentirati njegove komponente te izraditi jasnu i točnu tehničku dokumentaciju cijelog procesa kroz četiri sesije.</p>
     <p>
