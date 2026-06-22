@@ -61,8 +61,19 @@ Za sprječavanje nezgoda potrebno je:
 
 Važno je poznavati i poštivati znakove upozorenja koji se nalaze na različitim elementima.
 
+```{image} images/safety1-1.png
+:width: 90%
+:align: center
+:alt: Slika sadrži različite sigurnosne znakove upozorenja.
+```
 
-```{image} images/safety1.png
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Slika sadrži različite sigurnosne znakove upozorenja.
+```
+
+```{image} images/safety1-3.png
 :width: 90%
 :align: center
 :alt: Slika sadrži različite sigurnosne znakove upozorenja.
