@@ -1,13 +1,14 @@
 # Izvještaj o napretku
 
-Na kraju sesije zabilježite napredak skupine i pojedinačne doprinose u razredni dnevnik.
+Odličan ste radili danas!
 
-```{suggestionnote}
-**Ima više smisla da preuzmu dokument kako bi ga mogli uređivati u bilo kojem trenutku i nadopuniti kada shvate da mogu dodati još sadržaja. S popup prozorom to je moguće samo jednokratno.**
-```
+Molimo vas da odvojite vrijeme da razmislite, u skupinama, o vašem napretku i podijelite kako je danas tekao rad: što ste postigli, kako je svaki član skupine doprinio, je li suradnja bila učinkovita i što bi se moglo poboljšati, što ste naučili i koji su vaši sljedeći koraci.
+
+Odgovorite na svako pitanje što potpunije kako bi vaš učitelj mogao bolje cijeniti vaš napredak.
+
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/1Sb6xT95ytqCZy9-NV5FFGvP30aUXezQJA8T61bThM6E/preview" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="https://forms.gle/Z8JyjEtFQ9G9Lkxq6" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 ```
