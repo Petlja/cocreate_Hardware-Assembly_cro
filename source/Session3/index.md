@@ -1,3 +1,6 @@
+---
+status: exclude
+---
 # Sesija 3 - Izrada hardverske inventure
 
 ```{toctree}

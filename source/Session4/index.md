@@ -1,3 +1,6 @@
+---
+status: exclude
+---
 # Sesija 4 - Izrada vodiča za sastavljanje
 
 ```{toctree}
