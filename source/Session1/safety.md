@@ -211,27 +211,13 @@ Pri radu s električnom opremom, kao što su računala, uvijek koristite **Class
 
 ### 8) Prva pomoć
 
-<u>Zbrinjavanje rana:</u>
-
-Očistite ranu s mnogo vode i blagim sapunom, a zatim je dezinficirajte alkoholom. Pregledajte ranu i uklonite eventualna strana tijela, potom je ponovno dezinficirajte alkoholom. Ostavite ranu izloženu zraku ako ne postoji opasnost od kontakta; u suprotnom je prekrijte flasterom.
-
-<u>Zbrinjavanje opeklina:</u>
-
-Ako je potrebno, uklonite odjeću s opečenog područja, osim one koja se zalijepila za kožu. Opečeno područje uronite u hladnu vodu na 10 minuta, a postupak ponavljajte svakih 40 minuta ako bol i dalje traje. Ako bol ne popusti, potražite liječničku pomoć.
-
-<u>Hitna stanja oka:</u>
-
-Njih bi trebali zbrinjavati isključivo oftalmolozi. Najteže ozljede oka su opekline, koje se tretiraju kao i druge opekline (čišćenje i hladna voda), trauma oka uzrokovana udarcima, zavarivanjem ili oštrim predmetima, kada oko treba prekriti, te nagnječenja područja oko vjeđe, pri čemu se može primijeniti led posredno, preko zaštitnog sloja.
-
-<u>Otrovne tvari:</u>
-
-Ako su progutane korozivne tvari, treba popiti mlijeko ili vodu. Ako je tvar kisela, uzima se magnezij; ako je lužnata, uzima se ocat ili limun. U slučaju hospitalizacije treba ponijeti uzorak tvari i kontaktirati toksikološku službu.
-
-Ako su progutane nekorozivne tvari, povraćanje se može potaknuti podraživanjem resice žličicom ili ispijanjem šalice kave sa soli.
+```{infonote} 
+U slučaju ozljede preporučuje se obratiti se osobi zaduženoj za pružanje prve pomoći i/ili nazvati hitnu medicinsku službu.
+```
 
 Na sljedećem listu 👇 nalazi se **sažetak Sigurnosna pravila za sastavljanje i rastavljanje računala**, koji trebate koristiti kao referencu tijekom svih nadolazećih sesija:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Sažetak sigurnosnih pravila za sastavljanje i rastavljanje računala.

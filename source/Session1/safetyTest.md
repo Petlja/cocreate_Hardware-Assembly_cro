@@ -204,9 +204,5 @@ U skupinama koje ste formirali za sljedeće sesije raspravite i pronađite rješ
 
 2. Kada je riječ o sustavima za gašenje požara, koju biste vrstu vatrogasnog aparata upotrijebili za gašenje požara koji je izbio u otvorenom računalu koje ste popravljali?
 
-3. Pretpostavite da je vaš kolega, pokušavajući ugasiti prethodno spomenuti požar, opekao šaku i ruku. Koje biste mjere prve pomoći poduzeli?
-
-4. Na drugom uređaju, pri uklanjanju napajanja, porezali ste prst. Koje biste mjere prve pomoći poduzeli?
-
 5. Koju biste osnovnu zaštitnu opremu trebali koristiti u radionici kako biste smanjili rizike povezane s računalnom opremom?
 
