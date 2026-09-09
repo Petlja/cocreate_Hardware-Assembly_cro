@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Sesija 3 - Izrada hardverske inventure
+# Aktivnost 3 - Izrada hardverske inventure
 
 ```{toctree}
 :maxdepth: 2
