@@ -4,7 +4,7 @@
 
 Razvijanje vještina suradnje unutar vašeg tima ključno je za ovu aktivnost. Tijekom izvršavanja svakog zadatka slijedite ova pravila kako biste osigurali **inkluzivan, ravnopravan i zajednički odgovoran** proces suradnje.
 
-Vaša će skupina biti **ocijenjena prema tome u kojoj mjeri** zadovoljava svaki od sljedećih kriterija tiskog rada: (1 – Uopće nije ispunjeno; 2 – Većinom nije ispunjeno; 3 – Većinom ispunjeno; 4 – Potpuno ispunjeno).
+Vaša će skupina biti **ocijenjena prema tome u kojoj mjeri** zadovoljava svaki od sljedećih kriterija tiskog rada: 1 – Uopće nije ispunjeno; 2 – Većinom nije ispunjeno; 3 – Većinom ispunjeno; 4 – Potpuno ispunjeno.
 
 ```{infonote}
 **Pravila suradnje:**
