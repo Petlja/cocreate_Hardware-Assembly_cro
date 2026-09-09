@@ -10,6 +10,6 @@ Upotrijebite odjeljak **Postupak rastavljanja** iz priloženog *Predloška vodi�
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/18J_qKyfmHlTXNZIo0ZqgH_LuOgD4V9fQ0w-TetFaJcc/edit?usp=sharing" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="https://[docs.google.com/document/d/18J_qKyfmHlTXNZIo0ZqgH_LuOgD4V9fQ0w-TetFaJcc/edit?usp=sharing](https://docs.google.com/document/d/1FCgPgf5tx1zcXPEyQL9JZUSVT6fS6LQa/edit?usp=sharing&ouid=107430708822288370740&rtpof=true&sd=true" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 ```
