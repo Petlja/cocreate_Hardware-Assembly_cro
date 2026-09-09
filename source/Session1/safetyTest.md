@@ -30,7 +30,7 @@
 :answer3: Opasnost od opeklina;
 :correct: 1
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg1.png
 :width: 100px
 :align: center
@@ -43,7 +43,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Visoki napon;
 :correct: 2
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg2.png
 :width: 100px
 :align: center
@@ -57,7 +57,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Vruća površina;
 :correct: 2
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg3.png
 :width: 100px
 :align: center
@@ -70,7 +70,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Visoki napon;
 :correct: 3
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg4.png
 :width: 100px
 :align: center
@@ -83,7 +83,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Opasnost od eksplozije;
 :correct: 1
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg5.png
 :width: 100px
 :align: center
@@ -96,7 +96,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: UL oznaka komponente za SAD i Kanadu;
 :correct: 3
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg6.png
 :width: 100px
 :align: center
@@ -109,7 +109,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Visoki napon;
 :correct: 1
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg7.png
 :width: 100px
 :align: center
@@ -122,7 +122,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Opće upozorenje;
 :correct: 1
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg8.png
 :width: 100px
 :align: center
@@ -135,7 +135,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Elektrostatičko pražnjenje;
 :correct: 1
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg9.png
 :width: 100px
 :align: center
@@ -148,7 +148,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Laserska opasnost;
 :correct: 2
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg10.png
 :width: 100px
 :align: center
@@ -161,7 +161,7 @@ Odaberite točnu oznaku koja odgovara piktogramu
 :answer3: Lomljivo;
 :correct: 2
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg11.png
 :width: 100px
 :align: center
@@ -170,11 +170,11 @@ Odaberite točnu oznaku koja odgovara piktogramu
 
 ```{mchoice}
 :answer1: UL oznaka komponente za SAD i Kanadu
-:answer2: Oznaka EU sukladnosti;
-:answer3: Oznaka europske električne sukladnosti;
+:answer2: Oznaka sukladnosti s propisima Europske unije;
+:answer3: Oznaka Europskog standarda električne sigurnosti;
 :correct: 3
 
-Odaberite točnu oznaku koja odgovara piktogramu
+Odaberite točnu oznaku koja odgovara prikazanom piktogramu
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
@@ -192,17 +192,17 @@ Odaberite točnu oznaku koja odgovara piktogramu
 8. Opasnost od vruće površine  
 9. Opasnost od opeklina  
 10. UL oznaka komponente za SAD i Kanadu  
-11. Oznaka EU sukladnosti  
-12. Oznaka europske električne sukladnosti -->
+11. Oznaka sukladnosti s propisima Europske unije  
+12. Oznaka europskog standarda električne sigurnosti -->
 
 
 ## Vježba 3: 
 
-U skupinama koje ste formirali za sljedeće sesije raspravite i pronađite rješenja za zadane situacije. Za ovaj zadatak imate 7 minuta. Nakon toga svaka će skupina predstaviti svoja rješenja cijelom razredu.
+U skupinama koje ste formirali za sljedeće aktivnosti raspravite i pronađite rješenja za zadane situacije. Za ovaj zadatak imate 7 minuta. Nakon toga svaka će skupina predstaviti svoja rješenja cijelom razredu.
 
 1. U radionicu je upravo stigao uređaj na popravak i trebate ga otvoriti kako biste utvrdili što nije u redu jer se ne pokreće. Koje mjere opreza trebate poduzeti? Objasnite svaku.
 
-2. Kada je riječ o sustavima za gašenje požara, koju biste vrstu vatrogasnog aparata upotrijebili za gašenje požara koji je izbio u otvorenom računalu koje ste popravljali?
+2. Kada je riječ o sustavima za gašenje požara, koju biste vrstu vatrogasnog aparata upotrijebili za gašenje požara koji je izbio u otvorenom računalu na kojem ste radili?
 
-5. Koju biste osnovnu zaštitnu opremu trebali koristiti u radionici kako biste smanjili rizike povezane s računalnom opremom?
+3. Koju biste osnovnu zaštitnu opremu trebali koristiti u radionici kako biste smanjili rizike povezane s računalnom opremom?
 
