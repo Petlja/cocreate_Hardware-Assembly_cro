@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Aktivnost 3 - Izrada hardverske inventure
+# Aktivnost 3 - Izrada popisa hardverskih komponenti
 
 ```{toctree}
 :maxdepth: 2
