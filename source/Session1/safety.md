@@ -173,7 +173,7 @@ Metode gašenja:
 ```{list-table}
 :header-rows: 0
 
-* - ![Fire extinguishers](images/Extinguishing_systems/Fire_extinguishers.jpeg)
+* - ![Vatrogasni aparati](images/Extinguishing_systems/Fire_extinguishers.jpeg)
   - Vatrogasni aparati
 * - ![Fire hose reels](images/Extinguishing_systems/Fire_hose_reels.jpg)
   - Zidni hidranti s kolutom
