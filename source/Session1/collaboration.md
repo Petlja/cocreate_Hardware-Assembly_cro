@@ -19,7 +19,7 @@ Vaša će skupina biti **ocijenjena prema tome u kojoj mjeri** zadovoljava svaki
 9. Pratimo napredak i planiramo sljedeći korak.
 ```
 
-**Vježba.** Pročitajte pet problematičnih situacija koje su se dogodile u studentskim timovima tijekom rješavanja zadatka sličnog vašem.
+**Vježba.** Pročitajte pet problematičnih situacija koje su se dogodile u učeničkim timovima tijekom rješavanja zadatka sličnog vašem.
 
 1) Na početku aktivnosti jedan učenik priznaje: “Nikada prije nisam otvarao računalo, pa mislim da neću moći mnogo pomoći.” Ostali članovi skupine to prihvaćaju bez rasprave i dopuštaju studentu da sjedne sa strane. Tijekom aktivnosti učenik samo dodaje alat kada ga se to zamoli i ne sudjeluje u dokumentiranju ili donošenju odluka. Do kraja aktivnosti se učenik osjeća izolirano i isključeno te nije razvio vještine koje je aktivnost trebala potaknuti.
 
