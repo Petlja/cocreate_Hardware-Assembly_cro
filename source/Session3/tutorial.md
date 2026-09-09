@@ -1,6 +1,6 @@
 # Predložak vodiča za rastavljanje i sastavljanje:
 
-Upotrijebite odjeljak **Hardverska inventura** iz priloženog *Predloška vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
+Upotrijebite odjeljak **Popis računalnih komponenti** iz priloženog *Vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
 ```{raw} html
 <div style="text-align: center">
