@@ -1,7 +1,7 @@
 # Pregled
 
 ```{suggestionnote}
-U ovoj sesiji ćete:
-- Formirati timove za daljnji rad i naučiti **kako učinkovito surađivati** unutar svojega tima.
-- Pregledati **sigurnosne protokole** za sigurno uklanjanje i rukovanje komponentama.
+U ovoj aktivnosti ćete:
+- Formirati timove za daljnji rad i naučiti **učinkovito surađivati** unutar svojega tima.
+- Pregledati **sigurnosna pravila i postupke** za sigurno uklanjanje i rukovanje komponentama.
 ```
