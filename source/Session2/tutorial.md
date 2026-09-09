@@ -5,7 +5,7 @@
 Upotrijebite odjeljak **Postupak rastavljanja** iz priloženog *Predloška vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
 ```{suggestionnote}
-**Važno:** Tijekom cijelog tečaja nastavit ćete dopunjavati ovaj isti predložak. Na kraju će sadržavati postupak rastavljanja, hardverske komponente i postupak sastavljanja. Zajedno će to postati vaš **konačni proizvod**.
+**Važno:** Tijekom cijelog tečaja nastavit ćete dopunjavati ovaj isti predložak. Na kraju će sadržavati postupak rastavljanja, računalne komponente i postupak sastavljanja. Zajedno će to postati vaš **konačni proizvod**.
 ```
 
 ```{raw} html
