@@ -2,7 +2,7 @@
 
 Odlično ste radili danas!
 
-Molimo vas da odvojite vrijeme da razmislite, u skupinama, o vašem napretku i podijelite kako je danas tekao rad: što ste postigli, kako je svaki član skupine doprinio, je li suradnja bila učinkovita i što bi se moglo poboljšati, što ste naučili i koji su vaši sljedeći koraci.
+Molimo vas da odvojite vrijeme i u skupinama razmislite o vašem napretku te podijelite kako je danas tekao današnji rad: što ste postigli, kako je svaki član skupine doprinio, je li suradnja bila učinkovita i što bi se moglo poboljšati, što ste naučili i koji su vaši sljedeći koraci.
 
 Odgovorite na svako pitanje što potpunije kako bi vaš učitelj mogao bolje procijeniti vaš napredak.
 
