@@ -1,6 +1,6 @@
 # Izrada vodiča za rastavljanje
 
-## Predložak vodiča za rastavljanje i sastavljanje:
+## Vodič za rastavljanje i sastavljanje:
 
 Upotrijebite odjeljak **Postupak rastavljanja** iz priloženog *Predloška vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
