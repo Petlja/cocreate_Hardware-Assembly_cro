@@ -1,10 +1,10 @@
-# O tečaju
+# O lekciji
 
 ## Ciljevi
 
-Na kraju tečaja, moći ćete:
+Na kraju lekcije, moći ćete:
 - Sigurno rastavljati i sastavljati računalnu opremu
-- Koristiti osnovne alate, zaštitnu opremu i platformu pravilno tijekom rada s hardverom i prijenosnim računalima
+- Pravilno koristiti osnovne alate, zaštitnu opremu i podlogu pravilno tijekom rada s hardverom i prijenosnim računalima
 - Poboljšati timski rad, komunikaciju, rješavanje problema i upravljanje vremenom
 
 ## Preduvjeti
@@ -12,36 +12,36 @@ Na kraju tečaja, moći ćete:
 Prije početka ove aktivnosti, trebali biste znati glavne dijelove računala i njihove osnovne specifikacije, uključujući:
 
 - Napajanje: Snaga (W), Napon (V), Molex, SATA i PCIe (za GPU) **konektori, formati** (ATX, SFX itd.)
-- Matična ploča: Tip CPU utičnice (npr. LGA, AM), **RAM utori** (broj i tip), Proširenja utori (PCI, PCIe, M.2), USB priključci (2.0, 3.0, 3.1, 3.2, USB-C), podaci i napajanje **konektori** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Kapacitet i tehnologija (npr. DDR, DDR2, DDR3, DDR4), brzina prijenosa i frekvencija, tajming i podrška za ECC, **raspored čipova**.
-- Hard disk (HDD): Brzina okretaja (RPM), brzina prijenosa podataka, priključci za napajanje i podatke, **konektori** (SATA, Molex).
-- SSD (Solid State Drive): **konektori** (SATA, M.2 SATA, NVMe PCIe), brzina čitanja/pisanja (MB/s ili GB/s).
-- Procesor (CPU): Broj jezgri i threadova, osnovna i turbo frekvencija (GHz), cache (L1, L2, L3), potrošnja energije (TDP), **kompatibilnost s matičnom pločom/utičnicom**.
+- Matična ploča: vrsta procesorskog podnožja (npr. LGA, AM), **RAM utori** (broj i tip), utori za proširenja (PCI, PCIe, M.2), USB priključci (2.0, 3.0, 3.1, 3.2, USB-C), **priključci** za podatke i napanje (SATA, Molex, M.2, NVMe), **čipset i opća kompatibilnost**.
+- RAM: Kapacitet i tehnologija (npr. DDR, DDR2, DDR3, DDR4), brzina prijenosa i frekvencija, vremenske značajke (timings) i podrška za ECC, **raspored čipova**.
+- Tvrdi disk (HDD): Brzina okretaja (RPM), brzina prijenosa podataka, priključci za napajanje i podatke, **priključci** (SATA, Molex).
+- SSD (Solid State Drive): **priključci** (SATA, M.2 SATA, NVMe PCIe), brzina čitanja/pisanja (MB/s ili GB/s).
+- Procesor (CPU): Broj jezgri i dretvi, osnovna i turbo frekvencija (GHz), predmemorija (L1, L2, L3), potrošnja energije (TDP), **kompatibilnost s matičnom pločom/procesorskim podnožjem**.
 - Sustavi hlađenja: Ventilatori (veličina, RPM, protok zraka u CFM), hladnjak procesora (zračno ili vodeno hlađenje), **termalna pasta** (toplinska vodljivost W/mK).
-- Kućište / šasija: **format** (ATX, Micro-ATX, Mini-ITX), značajke upravljanja kabelima, prostor za ventilatore, ležišta za HDD/SSD.
+- Kućište/šasija: **format** (ATX, Micro-ATX, Mini-ITX), značajke upravljanja kabelima, prostor za ventilatore, ležišta za HDD/SSD.
 
-## Opis tečaja
+## Opis lekcije
 
-U ovom tečaju, naučit ćete kako da **sigurno i suradnički rastavljate i ponovno sastavljate računalni sustav**, identificirate i evidentiraete njegove komponente te izradite jasnu, točnu tehničku dokumentaciju cijelog procesa. Aktivnost će se provoditi kroz četiri sesije:
+U ovoj lekciji naučit ćete kako **sigurno i suradnički rastavljati i ponovno sastavljati računalni sustav**, identificirati i evidentirati njegove komponente te izradite jasnu, točnu tehničku dokumentaciju cijelog procesa. Lekcija se provodi kroz četiri aktivnosti:
 
-## Sesije
+## Aktivnosti
 
-### Sesija 1 - Suradnja i Pravila sigurnosti
+### Aktivnost 1 - Suradnja i Pravila sigurnosti
 
-Formirati ćemo radne skupine, razmotriti ćemo **savjete za suradnju** kako bismo vodili vaš timski rad u dovršetku uspješnog zadatka, i razgovarat ćemo o **sigurnosnim protokolima** za sigurno rukovanje hardverskim komponentama.
+Formirat ćemo radne skupine, razmotrit ćemo **pravila suradnje** kako bismo usmjerili timski rad prema uspješnom izvršenju zadatka i razgovarat ćemo o **sigurnosnim pravilima** za sigurno rukovanje hardverskim komponentama.
 
-### Sesija 2 - Razvoj Vodiča za Rastavljanje
+### Aktivnost 2 - Izrada vodiča za rastavljanje
 
-Svaka skupina će rastavljati računalo, dokumentirajući svaki korak pisanim bilješkama i fotografijama kako bi se napravio **vodič za rastavljanje**.
+Svaka će skupina rastavljati računalo, dokumentirajući svaki korak pisanim bilješkama i fotografijama kako bi izradila **vodič za rastavljanje**.
 
-### Sesija 3 - Izrada Hardverske Inventure
+### Aktivnost 3 - Izrada popisa hardverskih komponenti
 
-Sa rastavljenim računalom, svaka skupina će nastaviti da identificira i dokumentira tehničke specifikacije komponenti kako bi izradila **hardversku inventuru**.
+S rastavljenim računalom svaka će skupina nastaviti identificirati i dokumentirati tehničke specifikacije komponenti kako bi izradila **popis hardverskih komponenti**.
 
-### Sesija 4 - Razvoj Vodiča za Sastavljanje
+### Aktivnost 4 - Izrada vodiča za sastavljanje
 
-Svaka skupina će razviti **vodič za sastavljanje** ponovnim sastavljanjem računala, dokumentiranjem i fotografiranjem procesa.
+Svaka će skupina izraditi **vodič za sastavljanje** ponovnim sastavljanjem računala, dokumentiranjem i fotografiranjem postupka.
 
 ```{suggestionnote}
-Na kraju svake sesije, skupine će upisivati napredak i doprinose pojedinih članova, omogućujući učitelju praćenje napretka zadatka i suradnje.
+Na kraju svake aktivnosti skupine će upisivati svoj napredak i doprinose pojedinih članova, omogućujući učitelju praćenje napretka u izvršavanju zadatka i suradnje unutar skupine.
 ```
