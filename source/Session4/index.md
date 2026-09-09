@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Sesija 4 - Izrada vodiča za sastavljanje
+# Aktivnost 4 - Izrada vodiča za sastavljanje
 
 ```{toctree}
 :maxdepth: 2
