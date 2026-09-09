@@ -1,4 +1,4 @@
-# Predložak vodiča za rastavljanje i sastavljanje:
+# Vodič za rastavljanje i sastavljanje:
 
 Upotrijebite odjeljak **Popis računalnih komponenti** iz priloženog *Vodiča za rastavljanje i sastavljanje* kako biste svoj rad organizirali jasno i sustavno.
 
