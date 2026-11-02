@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Sesija 1
+# Aktivnost 1 – Sigurnost
 
 ```{toctree}
 :maxdepth: 2

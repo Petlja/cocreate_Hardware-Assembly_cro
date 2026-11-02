@@ -1,13 +1,7 @@
 # Izvještaj o napretku
 
-Odlično ste radili danas!
+Nadopunite izvješće o napretku
 
-Molimo vas da odvojite vrijeme i u skupinama razmislite o vašem napretku te podijelite kako je danas tekao današnji rad: što ste postigli, kako je svaki član skupine doprinio, je li suradnja bila učinkovita i što bi se moglo poboljšati, što ste naučili i koji su vaši sljedeći koraci.
+Otvorite izvješće o napretku koje ste spremili nakon Aktivnosti 2. Pročitajte što ste prošli put napisali, a zatim dodajte novi dio o Aktivnosti 3: što ste postigli, kako je svaki član skupine pridonio radu, kako je tekla suradnja, što ste naučili i što biste sljedeći put učinili drukčije.
 
-Odgovorite na svako pitanje što potpunije kako bi vaš učitelj mogao bolje procijeniti vaš napredak.
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://forms.gle/qfr43rip36E6mm7Q7" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+Kad završite, ponovno spremite dokument.
