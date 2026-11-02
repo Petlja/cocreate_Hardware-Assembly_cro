@@ -1,17 +1,9 @@
 # Konačni proizvod
 
-Bravo! Završili ste postupak sastavljanja! Vaš je predložak sada završen i služit će kao konačni proizvod ove lekcije.
+Dovršite izvješće o napretku
 
-## Izvještaj o napretku
+Otvorite svoje izvješće o napretku i dodajte posljednji dio, o Aktivnosti 4. Opišite što ste postigli, kako je svaki član skupine pridonio radu, kako je tekla suradnja i što ste naučili.
 
-Odlično ste radili danas!
+Na kraju pročitajte cijelo izvješće i razmislite kako se vaš rad mijenjao od Aktivnosti 2 do Aktivnosti 4. U nekoliko rečenica napišite u čemu ste najviše napredovali.
 
-Molimo vas da odvojite vrijeme i u skupinama razmislite o vašem napretku te podijelite kako je danas tekao današnji rad: što ste postigli, kako je svaki član skupine doprinio, je li suradnja bila učinkovita i što bi se moglo poboljšati, što ste naučili i koji su vaši sljedeći koraci.
-
-Odgovorite na svako pitanje što potpunije kako bi vaš učitelj mogao bolje procijeniti vaš napredak.
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://forms.gle/pWv8QYvcCgdcPvKz9" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+Spremite dokument i predajte ga na način koji je dogovoren s učiteljem.
