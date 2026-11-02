@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Aktivnost 2 Izrada vodiča za rastavljanje
+# Aktivnost 2 - Izrada vodiča za rastavljanje
 
 ```{toctree}
 :maxdepth: 2
