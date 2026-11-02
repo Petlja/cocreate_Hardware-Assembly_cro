@@ -1,16 +1,13 @@
 # Što ste naučili
 
-- Vježba 1: Odgovorite na pitanja samostalno, vlastitim riječima.
-- Vježba 2: Povežite piktograme s njihovim značenjem.
-
-
 ## Vježba 1:
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSphDvFXdnXTVV9Yjneg6_xcWYPRJ4wxxx3joGZfXwtJ1Oyg/viewform?usp=header" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+Odgovorite na pitanja samostalno, vlastitim riječima.
+1. Kako biste definirali sigurnost na radnome mjestu i koji je njezin cilj?
+2. Koje mjere treba poduzeti kako bi se spriječile nezgode?
+3. Što mora osigurati radni okoliš kao opći čimbenik rizika?
+4. Što su ugodni uvjeti rada?
+5. O čemu ovisi psihička ugodnost pri radu i koji se problemi mogu pojaviti kratkoročno, srednjoročno i dugoročno ako ona nije ostvarena?
+6. Koji su, prema vašem mišljenju, najvažniji opći čimbenici rizika pri radu s računalom? Obrazložite svoj odgovor.
 
 ## Vježba 2:
 
