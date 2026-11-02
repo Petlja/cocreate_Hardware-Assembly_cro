@@ -1,7 +1,7 @@
 # Što ste naučili
 
 ## Vježba 1:
-Odgovorite na pitanja samostalno, vlastitim riječima.
+Odgovorite na pitanja u grupama ili u parovima vlastitim riječima.
 1. Kako biste definirali sigurnost na radnome mjestu i koji je njezin cilj?
 2. Koje mjere treba poduzeti kako bi se spriječile nezgode?
 3. Što mora osigurati radni okoliš kao opći čimbenik rizika?
